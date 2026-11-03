@@ -42,3 +42,5 @@ Then open http://localhost:8080 in the browser.
 ## Documentation
 
 Screenshots are in the [doc](doc) directory.
+
+Changes by Mikita
